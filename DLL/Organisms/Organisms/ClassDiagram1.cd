@@ -4,4 +4,7 @@
     <Position X="5" Y="3.5" Width="1.75" />
     <TypeIdentifier>
       <HashCode>AAEAAAABEAAAgAAgFIAAIAQAAAAECAAAAAAAAAABAAA=</HashCode>
-      <FileName>DeadlyMimic.cs
+      <FileName>DeadlyMimic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Organisms.Fl
