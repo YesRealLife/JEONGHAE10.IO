@@ -7,4 +7,6 @@
       <FileName>DeadlyMimic.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Organisms.Fl
+  <Class Name="Organisms.Fly" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeId
