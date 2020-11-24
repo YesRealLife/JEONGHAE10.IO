@@ -13,4 +13,7 @@
       <HashCode>AAEAAAABEIAAgAAgBAAAIAQAAgAECAAAAAAAAAABAAA=</HashCode>
       <FileName>Fly.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="Organisms.Plant" Collapsed="true">
+    <Posi
