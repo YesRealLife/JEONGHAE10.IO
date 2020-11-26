@@ -20,4 +20,6 @@
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Plant.cs</FileName>
-    </TypeIde
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Organisms.MajesticPlant" Collapsed
