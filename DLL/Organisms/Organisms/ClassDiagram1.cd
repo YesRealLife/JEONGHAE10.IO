@@ -31,4 +31,5 @@
   </Class>
   <Class Name="Organisms.Actor" Collapsed="true">
     <Position X="2.75" Y="0.75" Width="1.5" />
-    <TypeIdent
+    <TypeIdentifier>
+      <HashCode>AAAAAAABEIAAgAAgAAAAAAQAAAAACAAAAAAAAAABAAA=</HashCod
