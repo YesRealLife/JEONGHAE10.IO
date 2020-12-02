@@ -26,4 +26,7 @@
     <Position X="2.75" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAEAAAABAAAAgAAgFIAAIAQAAAAECAAAAAAAAAABAAA=</HashCode>
-      <FileName>Majesti
+      <FileName>MajesticPlant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Org
