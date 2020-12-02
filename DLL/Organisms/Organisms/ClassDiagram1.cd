@@ -29,4 +29,6 @@
       <FileName>MajesticPlant.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Org
+  <Class Name="Organisms.Actor" Collapsed="true">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdent
