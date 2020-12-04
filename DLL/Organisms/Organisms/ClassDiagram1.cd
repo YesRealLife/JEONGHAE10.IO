@@ -35,4 +35,6 @@
       <HashCode>AAAAAAABEIAAgAAgAAAAAAQAAAAACAAAAAAAAAABAAA=</HashCode>
       <FileName>Actor.cs</FileName>
     </TypeIdentifier>
-    <Lollipop P
+    <Lollipop Position="0.1" />
+  </Class>
+  <Interface Name="Organisms.IActors" Collapse
