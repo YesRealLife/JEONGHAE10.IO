@@ -44,4 +44,6 @@
       <FileName>IActors.cs</FileName>
     </TypeIdentifier>
   </Interface>
-  <Interfa
+  <Interface Name="Organisms.IInsect" Collapsed="true">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <
