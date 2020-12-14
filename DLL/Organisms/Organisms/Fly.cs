@@ -105,3 +105,33 @@ namespace Organisms
 
             //do while loop
             do
+            {
+                xpos = rand.Next(-1, 4);
+            } while (xpos == 0);
+            //randomize, and if the number is 0, randomize again
+            do
+            {
+                ypos = rand.Next(-1, 4);
+            } while (ypos == 0);
+            PositionX += xpos;
+            PositionY += ypos;
+
+            //if position X is negative, multiply by -1
+            if (PositionX < 0)
+            {
+                PositionX *= -1;
+            }
+            //if position Y is negative, multiply by -1
+            if (PositionY < 0)
+            {
+                PositionY *= -1;
+            }
+
+        }//fly/teleport
+
+        ~Fly()
+        {
+            count--;
+        }//destructor
+    }//Flies
+}
