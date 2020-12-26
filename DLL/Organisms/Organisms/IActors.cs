@@ -16,4 +16,9 @@ namespace Organisms
         int Life { get; set; }
         int PositionX { get; set; }
         int PositionY { get; set; }
-        int Count //abstract propert
+        int Count //abstract property
+        {
+            get;
+        }
+    }
+}
