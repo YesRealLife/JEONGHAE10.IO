@@ -14,4 +14,6 @@ namespace Organisms
     interface IActors
     {
         int Life { get; set; }
-        int Posit
+        int PositionX { get; set; }
+        int PositionY { get; set; }
+        int Count //abstract propert
