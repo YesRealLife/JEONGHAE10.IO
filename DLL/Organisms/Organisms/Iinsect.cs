@@ -10,4 +10,10 @@
 // to use the switch statement; to use exception handling; to use a data structure to hold references to objects.
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ///
-namespace Org
+namespace Organisms
+{
+    interface IInsect
+    {
+        void FlyAway();
+    }
+}
