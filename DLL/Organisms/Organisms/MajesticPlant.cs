@@ -5,4 +5,5 @@
 // Date: 10/23/2020
 //
 // Description :
-// To create a library (dll) of critters; to instantiate objects of classes in an inheritance hierarc
+// To create a library (dll) of critters; to instantiate objects of classes in an inheritance hierarchy and 
+// polymorphically output each object’s attributes; to use static variab
