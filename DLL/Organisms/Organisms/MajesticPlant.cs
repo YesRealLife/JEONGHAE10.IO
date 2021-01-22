@@ -13,4 +13,7 @@ using System;
 
 namespace Organisms
 {
-    public 
+    public class MajesticPlant : Plant
+    {
+        int life, size, positionX, positionY, growth;
+        string n
