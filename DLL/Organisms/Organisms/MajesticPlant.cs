@@ -16,4 +16,6 @@ namespace Organisms
     public class MajesticPlant : Plant
     {
         int life, size, positionX, positionY, growth;
-        string n
+        string name;
+        static int count = 0;
+        /// ******************************
