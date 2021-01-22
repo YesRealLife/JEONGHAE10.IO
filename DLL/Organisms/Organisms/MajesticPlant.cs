@@ -18,4 +18,5 @@ namespace Organisms
         int life, size, positionX, positionY, growth;
         string name;
         static int count = 0;
-        /// ******************************
+        /// ******************************************** Properties *********************************
+        public over
