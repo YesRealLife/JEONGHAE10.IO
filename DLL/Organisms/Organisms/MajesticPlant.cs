@@ -23,4 +23,8 @@ namespace Organisms
         {
             get { return count; }
         }
-        public override i
+        public override int Life
+        {
+            set { life = value; }
+            get { return life; }
+  
