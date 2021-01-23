@@ -19,4 +19,8 @@ namespace Organisms
         string name;
         static int count = 0;
         /// ******************************************** Properties *********************************
-        public over
+        public override int Count
+        {
+            get { return count; }
+        }
+        public override i
