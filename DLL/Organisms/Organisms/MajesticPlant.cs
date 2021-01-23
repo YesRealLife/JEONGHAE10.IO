@@ -27,4 +27,8 @@ namespace Organisms
         {
             set { life = value; }
             get { return life; }
-  
+        }
+        public override int Size
+        {
+            get { return size; }
+ 
