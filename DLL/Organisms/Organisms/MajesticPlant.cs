@@ -31,4 +31,8 @@ namespace Organisms
         public override int Size
         {
             get { return size; }
- 
+        }
+
+        public override int PositionX
+        {
+            get { return posi
