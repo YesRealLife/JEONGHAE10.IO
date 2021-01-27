@@ -38,4 +38,7 @@ namespace Organisms
             get { return positionX; }
             set { positionX = value; }
         }
-        public override int Pos
+        public override int PositionY
+        {
+            get { return positionY; }
+            set { positionY = value; }
