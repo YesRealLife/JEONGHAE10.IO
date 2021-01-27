@@ -45,4 +45,6 @@ namespace Organisms
         }
         public override string Name
         {
-            get { return name; 
+            get { return name; }
+        }
+        /// ******************************************** Method
