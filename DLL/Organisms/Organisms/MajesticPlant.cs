@@ -42,3 +42,7 @@ namespace Organisms
         {
             get { return positionY; }
             set { positionY = value; }
+        }
+        public override string Name
+        {
+            get { return name; 
