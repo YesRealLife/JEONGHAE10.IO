@@ -47,4 +47,6 @@ namespace Organisms
         {
             get { return name; }
         }
-        /// ******************************************** Method
+        /// ******************************************** Methods ************************************
+        public MajesticPlant(int x, int y)
+    
