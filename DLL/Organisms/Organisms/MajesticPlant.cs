@@ -58,4 +58,7 @@ namespace Organisms
             PositionY = y;
             name = "MajesticPlant";
         }   //Constructor
-        public override MajesticPla
+        public override MajesticPlant Pollinate()
+        {
+            growth += 2;
+            MajesticPlant child
