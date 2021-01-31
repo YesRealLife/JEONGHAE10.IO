@@ -49,4 +49,7 @@ namespace Organisms
         }
         /// ******************************************** Methods ************************************
         public MajesticPlant(int x, int y)
-    
+        {
+            //increase the count
+            count++;
+            life = 1000;//can live forev
