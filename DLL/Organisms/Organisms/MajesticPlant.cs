@@ -56,4 +56,6 @@ namespace Organisms
             size = 0;
             PositionX = x;
             PositionY = y;
-            name =
+            name = "MajesticPlant";
+        }   //Constructor
+        public override MajesticPla
