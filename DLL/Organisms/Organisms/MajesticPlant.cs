@@ -52,4 +52,8 @@ namespace Organisms
         {
             //increase the count
             count++;
-            life = 1000;//can live forev
+            life = 1000;//can live forever
+            size = 0;
+            PositionX = x;
+            PositionY = y;
+            name =
