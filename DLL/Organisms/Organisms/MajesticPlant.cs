@@ -61,4 +61,5 @@ namespace Organisms
         public override MajesticPlant Pollinate()
         {
             growth += 2;
-            MajesticPlant child
+            MajesticPlant child = new MajesticPlant(0, 0);//sprout
+            Console.WriteLine("Majestic Born
