@@ -62,4 +62,8 @@ namespace Organisms
         {
             growth += 2;
             MajesticPlant child = new MajesticPlant(0, 0);//sprout
-            Console.WriteLine("Majestic Born
+            Console.WriteLine("Majestic Born " + count);
+            return child;
+        }//Pollinate
+
+   
