@@ -75,4 +75,10 @@ namespace Organisms
             }
         }
   
-        ~Maje
+        ~MajesticPlant()
+        {
+            --count;
+        }//destructor
+    }//MajesticPlant
+}
+
