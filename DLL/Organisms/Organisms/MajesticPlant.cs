@@ -70,4 +70,9 @@ namespace Organisms
         {
             if(growth > 0)
             {
-       
+                growth--;
+                size++;
+            }
+        }
+  
+        ~Maje
