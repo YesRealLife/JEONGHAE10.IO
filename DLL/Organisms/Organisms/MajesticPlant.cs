@@ -66,4 +66,8 @@ namespace Organisms
             return child;
         }//Pollinate
 
-   
+        public override void Grow()
+        {
+            if(growth > 0)
+            {
+       
