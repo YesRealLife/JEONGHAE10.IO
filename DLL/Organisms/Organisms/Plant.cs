@@ -6,3 +6,4 @@
 //
 // Description :
 // To create a library (dll) of critters; to instantiate objects of classes in an inheritance hierarchy and 
+// polymorphically output each object’s attributes; to use static variables; to use a labels, tex
