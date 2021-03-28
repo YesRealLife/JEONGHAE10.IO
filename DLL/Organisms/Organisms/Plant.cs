@@ -15,4 +15,4 @@ namespace Organisms
     public abstract class Plant : Actor
     {
         
-        /
+        /// ******************************************** Properties *********
