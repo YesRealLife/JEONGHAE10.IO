@@ -15,4 +15,6 @@ namespace Organisms
     public abstract class Plant : Actor
     {
         
-        /// ******************************************** Properties *********
+        /// ******************************************** Properties *********************************
+
+        public override int Count //abstract property
