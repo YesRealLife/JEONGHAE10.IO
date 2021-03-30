@@ -24,4 +24,7 @@ namespace Organisms
         public override int Size
         {
             get;
-  
+        }
+        
+    }
+}
