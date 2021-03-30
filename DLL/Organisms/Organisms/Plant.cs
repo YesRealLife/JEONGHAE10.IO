@@ -18,3 +18,10 @@ namespace Organisms
         /// ******************************************** Properties *********************************
 
         public override int Count //abstract property
+        {
+            get;
+        }
+        public override int Size
+        {
+            get;
+  
