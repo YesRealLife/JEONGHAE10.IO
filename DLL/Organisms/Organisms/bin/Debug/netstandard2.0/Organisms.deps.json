@@ -1,3 +1,7 @@
 {
   "runtimeTarget": {
-    "name": ".NETStandard,Version
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets"
