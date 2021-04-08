@@ -4,4 +4,7 @@
     "signature": ""
   },
   "compilationOptions": {},
-  "targets"
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+     
