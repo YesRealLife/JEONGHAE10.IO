@@ -25,4 +25,8 @@
   },
   "libraries": {
     "Organisms/1.0.0": {
-      "type": "p
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/
