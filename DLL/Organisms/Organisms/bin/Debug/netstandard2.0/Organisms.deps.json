@@ -36,4 +36,6 @@
       "path": "microsoft.netcore.platforms/1.1.0",
       "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
     },
-    "N
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "service
