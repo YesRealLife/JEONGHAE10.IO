@@ -38,4 +38,5 @@
     },
     "NETStandard.Library/2.0.3": {
       "type": "package",
-      "service
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypd
