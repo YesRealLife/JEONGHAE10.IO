@@ -1,2 +1,3 @@
 C:\Users\shylo\Documents\GitHub\GameOfLife_Plants\DLL\Organisms\Organisms\bin\Debug\netstandard2.0\Organisms.deps.json
-C:\Users\shylo\Documents\GitHub\GameOfLife_Plants\DLL\Organisms\Organisms\bin\Debug\netstandard2.0\Org
+C:\Users\shylo\Documents\GitHub\GameOfLife_Plants\DLL\Organisms\Organisms\bin\Debug\netstandard2.0\Organisms.dll
+C:\Users\shylo\Documents\GitHub\GameOfLife_Plants\DLL\Organisms\Organisms\bin\Debug\netstandard
