@@ -15,4 +15,6 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shylo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTarget
