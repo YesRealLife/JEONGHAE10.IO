@@ -115,3 +115,35 @@ namespace GameofLife
                 case 3:
                     Actors[x, y] = new Organisms.MajesticPlant(x, y);
                     break;
+            }
+        }
+
+        ///************************************************* Add Plant *******************************************
+        public void AddPlant(MajesticPlant child, int gridSizeX, int gridSizeY)
+        {
+            //randomly insert child onto grid
+            RandomInsert(child, gridSizeX, gridSizeY);
+
+        }//AddPlant
+        ///************************************************* Random Insert *******************************************
+        public void RandomInsert(Actor temp, int gridSizeX, int gridSizeY)
+        {   //if the grid can hold more organisms
+            if (deadlyCount + flyCount + majesticCount < gridSizeX * gridSizeY)
+            {
+                //while the array position is taken, randomize object's position
+                while (actors[temp.PositionX, temp.PositionY] != null)
+                {
+                    //randomize position of object's X and Y position
+                    temp.PositionX = rand.Next(gridSizeX);
+                    temp.PositionY = rand.Next(gridSizeY);
+                }//while
+                 //place the object in the actors array based on its position
+                actors[temp.PositionX, temp.PositionY] = temp;
+            }//if
+            else
+            {
+                temp = null;
+            }
+        }//RandomInsert
+    }
+}
