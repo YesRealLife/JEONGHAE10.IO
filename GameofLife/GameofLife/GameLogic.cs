@@ -118,3 +118,77 @@ namespace GameofLife
                     //static count
 
                     DataArr.FlyCount = DataArr.Actors[x, y].Count;
+                }
+            }//if
+            else
+            {
+                //in position is null, set ret to null
+                ret = null;
+            }
+            System.GC.Collect();
+            //return what ever ret is
+            return ret;
+        }
+
+        ///************************************************* Move Flies *******************************************
+        public void MoveFlies(int gridSizeX, int gridSizeY)
+        {
+            int originalX = 0;
+            int originalY = 0;
+            int newPosX;
+            int newPosY;
+            //only goes through the list of flies
+            for (int x = 0; x < Data.Flies.Count; x++)
+            {
+                //delete the fly from the 2D array
+                Data.Actors[Data.Flies[x].PositionX % gridSizeX, Data.Flies[x].PositionY % gridSizeY] = null;
+                //store original values to use incase there is a colision that isnt with a deadly mimic
+                originalX = Data.Flies[x].PositionX % gridSizeX;
+                originalY = Data.Flies[x].PositionY % gridSizeY;
+                //add random number to the object's positions by calling Move()
+                Data.Flies[x].Move();
+                //new position mod the grid sizes so that it will wrap around
+                newPosX = Data.Flies[x].PositionX % gridSizeX;
+                newPosY = Data.Flies[x].PositionY % gridSizeY;
+
+                //if actor position is null skip
+                if (Data.Actors[newPosX, newPosY] != null)
+                {
+                    //if the fly collided with a majestic fly, keep original position
+                    if (Data.Actors[newPosX, newPosY].Name == "MajesticPlant")
+                    {
+                        Data.Flies[x].Eat();
+                        //create a new plant object
+                        Data.AddPlant(((MajesticPlant)Data.Actors[newPosX, newPosY]).Pollinate(), gridSizeX, gridSizeY);
+                        //fly eats some of the plant then goes back to its original position
+                        Data.Flies[x].PositionX = originalX;
+                        Data.Flies[x].PositionY = originalY;
+                        Data.Actors[originalX, originalY] = Data.Flies[x];
+                    }
+                    //if the fly collided with a Deadly Mimic, delete the fly
+                    else if (Data.Actors[newPosX, newPosY].Name == "DeadlyMimic")
+                    {
+
+                        //increase the life of deadly mimic
+                        Data.Actors[newPosX, newPosY].Eat();
+                        Data.Flies[x] = null;
+                    }
+                    else if (Data.Actors[newPosX, newPosY].Name == "Fly")
+                    {
+                        //fly says hello then goes back to its original position
+                        Data.Flies[x].PositionX = originalX;
+                        Data.Flies[x].PositionY = originalY;
+                        Data.Actors[originalX, originalY] = Data.Flies[x];
+                    }
+                }//outerIf
+                else
+                {
+                    Data.Actors[newPosX, newPosY] = Data.Flies[x];
+                }
+            }//for
+            //remove all the null items from the fly list
+            Data.Flies.RemoveAll(item => item == null);
+            System.GC.Collect();
+        }//Move
+        }
+    }//Class Data
