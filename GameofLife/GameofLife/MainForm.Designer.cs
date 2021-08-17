@@ -9,4 +9,5 @@
 
         /// <summary>
         /// Clean up any resources being used.
-        /// </su
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherw
