@@ -28,4 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.
+            this.components = new System.ComponentModel.Container();
+            this.textBox_FlyNum = new System.Windows.Forms.TextBox();
+            th
