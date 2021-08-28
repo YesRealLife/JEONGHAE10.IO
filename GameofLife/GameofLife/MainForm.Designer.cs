@@ -30,4 +30,5 @@
         {
             this.components = new System.ComponentModel.Container();
             this.textBox_FlyNum = new System.Windows.Forms.TextBox();
-            th
+            this.textBox_MajesticNum = new System.Windows.Forms.TextBox();
+            this.textBox_Deadly
