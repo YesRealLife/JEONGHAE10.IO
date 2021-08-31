@@ -35,4 +35,5 @@
             this.label_FlyNum = new System.Windows.Forms.Label();
             this.label_MajesticNum = new System.Windows.Forms.Label();
             this.label_DeadlyNums = new System.Windows.Forms.Label();
-            this.textBox_Rows = new System.Windows.Fo
+            this.textBox_Rows = new System.Windows.Forms.TextBox();
+            this.textBox_Columns = new System.Windows.Forms.TextBox();
