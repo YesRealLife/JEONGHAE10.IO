@@ -38,4 +38,6 @@
             this.textBox_Rows = new System.Windows.Forms.TextBox();
             this.textBox_Columns = new System.Windows.Forms.TextBox();
             this.label_Cols = new System.Windows.Forms.Label();
-            this.label_Rows = new Syste
+            this.label_Rows = new System.Windows.Forms.Label();
+            this.button_Next = new System.Windows.Forms.Button();
+            this
