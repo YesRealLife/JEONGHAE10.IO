@@ -40,4 +40,5 @@
             this.label_Cols = new System.Windows.Forms.Label();
             this.label_Rows = new System.Windows.Forms.Label();
             this.button_Next = new System.Windows.Forms.Button();
-            this
+            this.groupBox_Control = new System.Windows.Forms.GroupBox();
+            this.button_Co
