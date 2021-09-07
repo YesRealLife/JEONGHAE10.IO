@@ -42,4 +42,5 @@
             this.button_Next = new System.Windows.Forms.Button();
             this.groupBox_Control = new System.Windows.Forms.GroupBox();
             this.button_ContinueFromManualSelect = new System.Windows.Forms.Button();
-            this.
+            this.groupBox_manualSelect = new System.Windows.Forms.GroupBox();
+            this.radi
