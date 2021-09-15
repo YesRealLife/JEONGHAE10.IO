@@ -44,4 +44,5 @@
             this.button_ContinueFromManualSelect = new System.Windows.Forms.Button();
             this.groupBox_manualSelect = new System.Windows.Forms.GroupBox();
             this.radioButton_ManualDeadly = new System.Windows.Forms.RadioButton();
-            this.
+            this.radioButton_ManualFly = new System.Windows.Forms.RadioButton();
+            this.radioB
