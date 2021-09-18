@@ -45,4 +45,5 @@
             this.groupBox_manualSelect = new System.Windows.Forms.GroupBox();
             this.radioButton_ManualDeadly = new System.Windows.Forms.RadioButton();
             this.radioButton_ManualFly = new System.Windows.Forms.RadioButton();
-            this.radioB
+            this.radioButton_ManualMimic = new System.Windows.Forms.RadioButton();
+            this.button_
