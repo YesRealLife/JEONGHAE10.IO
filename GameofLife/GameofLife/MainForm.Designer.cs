@@ -47,4 +47,5 @@
             this.radioButton_ManualFly = new System.Windows.Forms.RadioButton();
             this.radioButton_ManualMimic = new System.Windows.Forms.RadioButton();
             this.button_ManualLoad = new System.Windows.Forms.Button();
-            this.radioButton_Ma
+            this.radioButton_Manual = new System.Windows.Forms.RadioButton();
+            this.radioButton_Auto = new Sys
