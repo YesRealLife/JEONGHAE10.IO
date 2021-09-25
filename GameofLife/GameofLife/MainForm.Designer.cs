@@ -49,4 +49,5 @@
             this.button_ManualLoad = new System.Windows.Forms.Button();
             this.radioButton_Manual = new System.Windows.Forms.RadioButton();
             this.radioButton_Auto = new System.Windows.Forms.RadioButton();
-            this.label_genCount =
+            this.label_genCount = new System.Windows.Forms.Label();
+            this.label_generationNum = new System.Windows.F
