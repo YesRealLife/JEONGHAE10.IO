@@ -53,4 +53,5 @@
             this.label_generationNum = new System.Windows.Forms.Label();
             this.textBox_generationNum = new System.Windows.Forms.TextBox();
             this.button_Restart = new System.Windows.Forms.Button();
-     
+            this.label_DeadlyCount = new System.Windows.Forms.Label();
+            this.label_
