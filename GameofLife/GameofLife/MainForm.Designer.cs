@@ -55,4 +55,5 @@
             this.button_Restart = new System.Windows.Forms.Button();
             this.label_DeadlyCount = new System.Windows.Forms.Label();
             this.label_MajesticCount = new System.Windows.Forms.Label();
-            this.label_Fly
+            this.label_FlyCount = new System.Windows.Forms.Label();
+            this.timer_Game = new System.W
