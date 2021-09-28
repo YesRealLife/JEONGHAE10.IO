@@ -54,4 +54,5 @@
             this.textBox_generationNum = new System.Windows.Forms.TextBox();
             this.button_Restart = new System.Windows.Forms.Button();
             this.label_DeadlyCount = new System.Windows.Forms.Label();
-            this.label_
+            this.label_MajesticCount = new System.Windows.Forms.Label();
+            this.label_Fly
