@@ -57,4 +57,6 @@
             this.label_MajesticCount = new System.Windows.Forms.Label();
             this.label_FlyCount = new System.Windows.Forms.Label();
             this.timer_Game = new System.Windows.Forms.Timer(this.components);
-            this.button_AutoLoad = new System.Windo
+            this.button_AutoLoad = new System.Windows.Forms.Button();
+            this.groupBox_Control.SuspendLayout();
+            this.groupBox_
