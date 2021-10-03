@@ -62,4 +62,6 @@
             this.groupBox_manualSelect.SuspendLayout();
             this.SuspendLayout();
             // 
-      
+            // textBox_FlyNum
+            // 
+            this.textBox_FlyNum.Lo
