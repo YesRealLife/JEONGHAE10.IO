@@ -59,4 +59,7 @@
             this.timer_Game = new System.Windows.Forms.Timer(this.components);
             this.button_AutoLoad = new System.Windows.Forms.Button();
             this.groupBox_Control.SuspendLayout();
-            this.groupBox_
+            this.groupBox_manualSelect.SuspendLayout();
+            this.SuspendLayout();
+            // 
+      
