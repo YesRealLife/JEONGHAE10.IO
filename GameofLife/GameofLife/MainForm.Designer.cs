@@ -64,4 +64,5 @@
             // 
             // textBox_FlyNum
             // 
-            this.textBox_FlyNum.Lo
+            this.textBox_FlyNum.Location = new System.Drawing.Point(77, 14);
+            this.textBox_FlyNum.Margin = new
