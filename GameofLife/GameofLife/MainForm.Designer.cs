@@ -65,4 +65,5 @@
             // textBox_FlyNum
             // 
             this.textBox_FlyNum.Location = new System.Drawing.Point(77, 14);
-            this.textBox_FlyNum.Margin = new
+            this.textBox_FlyNum.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textBox_FlyNum.Name = "textBox_
