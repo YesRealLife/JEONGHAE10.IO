@@ -71,4 +71,5 @@
             this.textBox_FlyNum.TabIndex = 53;
             // 
             // textBox_MajesticNum
-     
+            // 
+            this.textBox_MajesticNum.Location = new Syst
