@@ -74,4 +74,6 @@
             // 
             this.textBox_MajesticNum.Location = new System.Drawing.Point(77, 43);
             this.textBox_MajesticNum.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox_MajesticNum.Name = "textBox_Majest
+            this.textBox_MajesticNum.Name = "textBox_MajesticNum";
+            this.textBox_MajesticNum.Size = new System.Drawing.Size(28, 22);
+            this.text
