@@ -72,4 +72,5 @@
             // 
             // textBox_MajesticNum
             // 
-            this.textBox_MajesticNum.Location = new Syst
+            this.textBox_MajesticNum.Location = new System.Drawing.Point(77, 43);
+            this.textBox_MajesticNum.Margin = new System.Windows
