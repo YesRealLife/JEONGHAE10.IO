@@ -76,4 +76,8 @@
             this.textBox_MajesticNum.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox_MajesticNum.Name = "textBox_MajesticNum";
             this.textBox_MajesticNum.Size = new System.Drawing.Size(28, 22);
-            this.text
+            this.textBox_MajesticNum.TabIndex = 54;
+            // 
+            // textBox_DeadlyNum
+            // 
+ 
