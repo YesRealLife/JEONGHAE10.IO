@@ -80,4 +80,4 @@
             // 
             // textBox_DeadlyNum
             // 
- 
+            this.textBox_DeadlyNum.Location = new System.Drawing.Point(77, 
