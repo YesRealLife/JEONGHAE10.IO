@@ -80,4 +80,6 @@
             // 
             // textBox_DeadlyNum
             // 
-            this.textBox_DeadlyNum.Location = new System.Drawing.Point(77, 
+            this.textBox_DeadlyNum.Location = new System.Drawing.Point(77, 74);
+            this.textBox_DeadlyNum.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+       
