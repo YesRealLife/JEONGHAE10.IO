@@ -84,4 +84,7 @@
             this.textBox_DeadlyNum.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox_DeadlyNum.Name = "textBox_DeadlyNum";
             this.textBox_DeadlyNum.Size = new System.Drawing.Size(28, 22);
-            this.textBox_
+            this.textBox_DeadlyNum.TabIndex = 55;
+            // 
+            // label_FlyNum
+           
