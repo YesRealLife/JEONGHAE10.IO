@@ -87,4 +87,6 @@
             this.textBox_DeadlyNum.TabIndex = 55;
             // 
             // label_FlyNum
-           
+            // 
+            this.label_FlyNum.AutoSize = true;
+            this
