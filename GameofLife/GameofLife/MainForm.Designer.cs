@@ -90,4 +90,5 @@
             // 
             this.label_FlyNum.AutoSize = true;
             this.label_FlyNum.Location = new System.Drawing.Point(32, 18);
-            this.label_F
+            this.label_FlyNum.Name = "label_FlyNum";
+            this.label_FlyNum.Size = new System.Drawing
