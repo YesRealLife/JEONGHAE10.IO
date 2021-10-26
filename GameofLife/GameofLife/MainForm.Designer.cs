@@ -93,4 +93,5 @@
             this.label_FlyNum.Name = "label_FlyNum";
             this.label_FlyNum.Size = new System.Drawing.Size(38, 17);
             this.label_FlyNum.TabIndex = 56;
-  
+            this.label_FlyNum.Text = "Fly #";
+            this.label_Fl
