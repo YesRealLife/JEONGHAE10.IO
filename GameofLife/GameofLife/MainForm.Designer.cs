@@ -98,4 +98,5 @@
             // 
             // label_MajesticNum
             // 
-            this.label_MajesticNum.AutoSize 
+            this.label_MajesticNum.AutoSize = true;
+            this.label_MajesticNum.Location = new System.Drawing.Point(-
