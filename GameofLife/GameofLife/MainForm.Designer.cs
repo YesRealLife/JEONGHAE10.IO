@@ -96,4 +96,6 @@
             this.label_FlyNum.Text = "Fly #";
             this.label_FlyNum.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
-            // la
+            // label_MajesticNum
+            // 
+            this.label_MajesticNum.AutoSize 
