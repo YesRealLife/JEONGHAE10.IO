@@ -101,4 +101,5 @@
             this.label_MajesticNum.AutoSize = true;
             this.label_MajesticNum.Location = new System.Drawing.Point(-1, 48);
             this.label_MajesticNum.Name = "label_MajesticNum";
-            this.l
+            this.label_MajesticNum.Size = new System.Drawing.Size(71, 17);
+            this.label_Majes
