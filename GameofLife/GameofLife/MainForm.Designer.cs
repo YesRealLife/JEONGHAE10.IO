@@ -99,4 +99,6 @@
             // label_MajesticNum
             // 
             this.label_MajesticNum.AutoSize = true;
-            this.label_MajesticNum.Location = new System.Drawing.Point(-
+            this.label_MajesticNum.Location = new System.Drawing.Point(-1, 48);
+            this.label_MajesticNum.Name = "label_MajesticNum";
+            this.l
