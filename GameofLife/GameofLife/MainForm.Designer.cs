@@ -103,4 +103,8 @@
             this.label_MajesticNum.Name = "label_MajesticNum";
             this.label_MajesticNum.Size = new System.Drawing.Size(71, 17);
             this.label_MajesticNum.TabIndex = 57;
-            this.label_MajesticNum.Text = "Majest
+            this.label_MajesticNum.Text = "Majestic #";
+            // 
+            // label_DeadlyNums
+            // 
+            this.l
