@@ -107,4 +107,5 @@
             // 
             // label_DeadlyNums
             // 
-            this.l
+            this.label_DeadlyNums.AutoSize = true;
+            this.label_DeadlyNums.Location = new System.D
