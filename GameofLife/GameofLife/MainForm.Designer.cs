@@ -113,4 +113,7 @@
             this.label_DeadlyNums.Size = new System.Drawing.Size(64, 17);
             this.label_DeadlyNums.TabIndex = 58;
             this.label_DeadlyNums.Text = "Deadly #";
-     
+            // 
+            // textBox_Rows
+            // 
+            this.textBox_Rows.Location = new S
