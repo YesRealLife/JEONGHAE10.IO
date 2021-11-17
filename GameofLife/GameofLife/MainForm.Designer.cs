@@ -110,4 +110,5 @@
             this.label_DeadlyNums.AutoSize = true;
             this.label_DeadlyNums.Location = new System.Drawing.Point(5, 78);
             this.label_DeadlyNums.Name = "label_DeadlyNums";
-          
+            this.label_DeadlyNums.Size = new System.Drawing.Size(64, 17);
+            t
