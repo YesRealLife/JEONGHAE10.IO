@@ -116,4 +116,5 @@
             // 
             // textBox_Rows
             // 
-            this.textBox_Rows.Location = new S
+            this.textBox_Rows.Location = new System.Drawing.Point(220, 15);
+            this.textBox_Rows.Margin = new System.Windows.Forms.Padding(3, 2, 3
