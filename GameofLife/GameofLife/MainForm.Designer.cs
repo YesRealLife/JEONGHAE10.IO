@@ -120,4 +120,8 @@
             this.textBox_Rows.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox_Rows.Name = "textBox_Rows";
             this.textBox_Rows.Size = new System.Drawing.Size(31, 22);
-            this.textBox_Rows.TabIndex = 
+            this.textBox_Rows.TabIndex = 59;
+            // 
+            // textBox_Columns
+            // 
+  
