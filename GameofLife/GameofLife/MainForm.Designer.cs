@@ -124,4 +124,4 @@
             // 
             // textBox_Columns
             // 
-  
+            this.textBox_Columns.Location = new System.Drawing.Point(220, 46
