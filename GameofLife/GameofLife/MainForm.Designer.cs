@@ -125,4 +125,6 @@
             // textBox_Columns
             // 
             this.textBox_Columns.Location = new System.Drawing.Point(220, 46);
-            this.textBox_Columns.Margin = new System.Windows.Forms.Padding(
+            this.textBox_Columns.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textBox_Columns.Name = "textBox_Columns";
+            th
