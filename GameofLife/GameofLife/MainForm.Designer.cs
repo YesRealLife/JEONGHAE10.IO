@@ -132,4 +132,5 @@
             // 
             // label_Cols
             // 
-      
+            this.label_Cols.AutoSize = true;
+            this.label_Cols.Location = new System.Drawing.
