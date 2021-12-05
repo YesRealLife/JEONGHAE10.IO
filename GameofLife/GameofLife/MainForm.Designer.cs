@@ -128,4 +128,8 @@
             this.textBox_Columns.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox_Columns.Name = "textBox_Columns";
             this.textBox_Columns.Size = new System.Drawing.Size(31, 22);
-            this.textBox_Col
+            this.textBox_Columns.TabIndex = 60;
+            // 
+            // label_Cols
+            // 
+      
