@@ -135,4 +135,6 @@
             this.label_Cols.AutoSize = true;
             this.label_Cols.Location = new System.Drawing.Point(167, 18);
             this.label_Cols.Name = "label_Cols";
-            this.label_Col
+            this.label_Cols.Size = new System.Drawing.Size(47, 17);
+            this.label_Cols.TabIndex = 61;
+   
