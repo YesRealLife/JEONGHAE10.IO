@@ -138,4 +138,7 @@
             this.label_Cols.Size = new System.Drawing.Size(47, 17);
             this.label_Cols.TabIndex = 61;
             this.label_Cols.Text = "Row #";
-            this.label_Cols.TextAlign = S
+            this.label_Cols.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // label_Rows
+           
