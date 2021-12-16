@@ -141,4 +141,6 @@
             this.label_Cols.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // label_Rows
-           
+            // 
+            this.label_Rows.AutoSize = true;
+            this.label_R
