@@ -146,4 +146,6 @@
             this.label_Rows.Location = new System.Drawing.Point(167, 48);
             this.label_Rows.Name = "label_Rows";
             this.label_Rows.Size = new System.Drawing.Size(40, 17);
- 
+            this.label_Rows.TabIndex = 62;
+            this.label_Rows.Text = "Col #";
+    
