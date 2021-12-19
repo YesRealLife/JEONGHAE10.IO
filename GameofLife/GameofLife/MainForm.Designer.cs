@@ -144,4 +144,6 @@
             // 
             this.label_Rows.AutoSize = true;
             this.label_Rows.Location = new System.Drawing.Point(167, 48);
-            this.labe
+            this.label_Rows.Name = "label_Rows";
+            this.label_Rows.Size = new System.Drawing.Size(40, 17);
+ 
