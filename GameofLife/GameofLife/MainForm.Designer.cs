@@ -149,4 +149,7 @@
             this.label_Rows.TabIndex = 62;
             this.label_Rows.Text = "Col #";
             this.label_Rows.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            
+            // 
+            // button_Next
+            // 
+            this.button_Next.L
