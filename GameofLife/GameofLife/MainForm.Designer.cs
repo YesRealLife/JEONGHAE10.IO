@@ -152,4 +152,5 @@
             // 
             // button_Next
             // 
-            this.button_Next.L
+            this.button_Next.Location = new System.Drawing.Point(328, 12);
+            this.button_Next.Margin = new System.Windows
