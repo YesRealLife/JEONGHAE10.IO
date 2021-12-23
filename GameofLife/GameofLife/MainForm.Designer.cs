@@ -155,4 +155,5 @@
             this.button_Next.Location = new System.Drawing.Point(328, 12);
             this.button_Next.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button_Next.Name = "button_Next";
-      
+            this.button_Next.Size = new System.Drawing.Size(75, 23);
+            this.butto
