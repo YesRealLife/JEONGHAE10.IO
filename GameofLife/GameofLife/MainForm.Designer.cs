@@ -158,4 +158,5 @@
             this.button_Next.Size = new System.Drawing.Size(75, 23);
             this.button_Next.TabIndex = 63;
             this.button_Next.Text = "Next";
-       
+            this.button_Next.UseVisualStyleBackColor = true;
+            this.button_Next.Visib
