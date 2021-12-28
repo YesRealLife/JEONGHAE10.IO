@@ -159,4 +159,6 @@
             this.button_Next.TabIndex = 63;
             this.button_Next.Text = "Next";
             this.button_Next.UseVisualStyleBackColor = true;
-            this.button_Next.Visib
+            this.button_Next.Visible = false;
+            this.button_Next.Click += new System.EventHandler(this.button_Next_Click);
+       
