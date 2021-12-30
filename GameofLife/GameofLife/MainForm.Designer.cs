@@ -165,4 +165,5 @@
             // groupBox_Control
             // 
             this.groupBox_Control.AutoSize = true;
-            this.groupBox_Control.BackColor = System.Drawing.Syste
+            this.groupBox_Control.BackColor = System.Drawing.SystemColors.Control;
+            this.groupBox_Control.Controls.Add(this.button_AutoLoad
