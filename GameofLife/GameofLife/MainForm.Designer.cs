@@ -161,4 +161,7 @@
             this.button_Next.UseVisualStyleBackColor = true;
             this.button_Next.Visible = false;
             this.button_Next.Click += new System.EventHandler(this.button_Next_Click);
-       
+            // 
+            // groupBox_Control
+            // 
+            this.groupBox_Contr
