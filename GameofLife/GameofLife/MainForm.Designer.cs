@@ -171,4 +171,5 @@
             this.groupBox_Control.Controls.Add(this.groupBox_manualSelect);
             this.groupBox_Control.Controls.Add(this.button_ManualLoad);
             this.groupBox_Control.Controls.Add(this.radioButton_Manual);
-            this.groupBox_
+            this.groupBox_Control.Controls.Add(this.radioButton_Auto);
+            this.groupBox_Control.Controls
