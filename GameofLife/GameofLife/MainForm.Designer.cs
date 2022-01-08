@@ -174,4 +174,5 @@
             this.groupBox_Control.Controls.Add(this.radioButton_Auto);
             this.groupBox_Control.Controls.Add(this.label_genCount);
             this.groupBox_Control.Controls.Add(this.label_generationNum);
-            this.groupBox_Control.Controls.Add(this.textBox_gener
+            this.groupBox_Control.Controls.Add(this.textBox_generationNum);
+            this.groupBox_Control.Controls.Add(this.button_Restar
