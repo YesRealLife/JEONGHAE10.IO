@@ -178,4 +178,5 @@
             this.groupBox_Control.Controls.Add(this.button_Restart);
             this.groupBox_Control.Controls.Add(this.label_DeadlyCount);
             this.groupBox_Control.Controls.Add(this.label_MajesticCount);
-            this.g
+            this.groupBox_Control.Controls.Add(this.label_FlyCount);
+            this.groupBox_Contro
