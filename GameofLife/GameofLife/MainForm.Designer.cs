@@ -177,4 +177,5 @@
             this.groupBox_Control.Controls.Add(this.textBox_generationNum);
             this.groupBox_Control.Controls.Add(this.button_Restart);
             this.groupBox_Control.Controls.Add(this.label_DeadlyCount);
-      
+            this.groupBox_Control.Controls.Add(this.label_MajesticCount);
+            this.g
