@@ -184,4 +184,5 @@
             this.groupBox_Control.Controls.Add(this.label_MajesticNum);
             this.groupBox_Control.Controls.Add(this.textBox_Columns);
             this.groupBox_Control.Controls.Add(this.label_Rows);
-     
+            this.groupBox_Control.Controls.Add(this.label_FlyNum);
+       
