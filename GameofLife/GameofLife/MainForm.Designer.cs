@@ -190,4 +190,5 @@
             this.groupBox_Control.Controls.Add(this.textBox_DeadlyNum);
             this.groupBox_Control.Controls.Add(this.textBox_MajesticNum);
             this.groupBox_Control.Controls.Add(this.textBox_FlyNum);
-            this.groupB
+            this.groupBox_Control.Dock = System.Windows.Forms.DockStyle.Top;
+            this.groupBox_C
