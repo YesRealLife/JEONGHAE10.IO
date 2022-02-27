@@ -194,4 +194,5 @@
             this.groupBox_Control.Location = new System.Drawing.Point(0, 0);
             this.groupBox_Control.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.groupBox_Control.Name = "groupBox_Control";
-            this.groupBox_Control.Padding = new System.Windows.Forms.Padding(3, 2, 
+            this.groupBox_Control.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.groupBox_Control.Size = new System.Drawing
