@@ -192,4 +192,5 @@
             this.groupBox_Control.Controls.Add(this.textBox_FlyNum);
             this.groupBox_Control.Dock = System.Windows.Forms.DockStyle.Top;
             this.groupBox_Control.Location = new System.Drawing.Point(0, 0);
-            this.groupBox_Control.Margin = ne
+            this.groupBox_Control.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.groupBox_Control.Name = "groupBox
