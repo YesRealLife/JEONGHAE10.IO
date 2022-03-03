@@ -195,4 +195,6 @@
             this.groupBox_Control.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.groupBox_Control.Name = "groupBox_Control";
             this.groupBox_Control.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.groupBox_Control.Size = new System.Drawing
+            this.groupBox_Control.Size = new System.Drawing.Size(1072, 121);
+            this.groupBox_Control.TabIndex = 64;
+            this.groupBox
