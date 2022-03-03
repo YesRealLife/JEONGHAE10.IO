@@ -200,4 +200,5 @@
             this.groupBox_Control.TabStop = false;
             // 
             // button_ContinueFromManualSelect
-  
+            // 
+            this.button_ContinueFromManualSelect.Location = new System.Dra
