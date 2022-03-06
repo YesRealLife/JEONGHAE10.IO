@@ -201,4 +201,5 @@
             // 
             // button_ContinueFromManualSelect
             // 
-            this.button_ContinueFromManualSelect.Location = new System.Dra
+            this.button_ContinueFromManualSelect.Location = new System.Drawing.Point(314, 9);
+            this.button_ContinueFromManualSelect.Name = "button_Co
