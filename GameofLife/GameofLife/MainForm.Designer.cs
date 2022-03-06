@@ -203,4 +203,5 @@
             // 
             this.button_ContinueFromManualSelect.Location = new System.Drawing.Point(314, 9);
             this.button_ContinueFromManualSelect.Name = "button_ContinueFromManualSelect";
-            this.button_ContinueFromManualSelect.Size =
+            this.button_ContinueFromManualSelect.Size = new System.Drawing.Size(109, 23);
+            this.button_ContinueFromManualSele
