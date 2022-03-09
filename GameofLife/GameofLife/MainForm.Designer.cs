@@ -205,4 +205,6 @@
             this.button_ContinueFromManualSelect.Name = "button_ContinueFromManualSelect";
             this.button_ContinueFromManualSelect.Size = new System.Drawing.Size(109, 23);
             this.button_ContinueFromManualSelect.TabIndex = 75;
-            this.button_ContinueFromManualSelect.Text = "Cont
+            this.button_ContinueFromManualSelect.Text = "Continue";
+            this.button_ContinueFromManualSelect.UseVisualStyleBackColor = true;
+ 
