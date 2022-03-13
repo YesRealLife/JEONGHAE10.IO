@@ -207,4 +207,5 @@
             this.button_ContinueFromManualSelect.TabIndex = 75;
             this.button_ContinueFromManualSelect.Text = "Continue";
             this.button_ContinueFromManualSelect.UseVisualStyleBackColor = true;
- 
+            this.button_ContinueFromManualSelect.Visible = false;
+            this.button_
