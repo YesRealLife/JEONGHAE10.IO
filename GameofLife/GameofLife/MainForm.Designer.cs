@@ -208,4 +208,4 @@
             this.button_ContinueFromManualSelect.Text = "Continue";
             this.button_ContinueFromManualSelect.UseVisualStyleBackColor = true;
             this.button_ContinueFromManualSelect.Visible = false;
-            this.button_
+            this.button_ContinueFromManualSelect.Click += new System.EventHandler(this.button_ContinueFromManualSe
