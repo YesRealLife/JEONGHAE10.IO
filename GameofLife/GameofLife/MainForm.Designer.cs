@@ -212,4 +212,5 @@
             // 
             // groupBox_manualSelect
             // 
-            
+            this.groupBox_manualSelect.Controls.Add(this.radioButton_ManualDeadly);
+         
