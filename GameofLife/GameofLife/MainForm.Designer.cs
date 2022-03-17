@@ -208,4 +208,8 @@
             this.button_ContinueFromManualSelect.Text = "Continue";
             this.button_ContinueFromManualSelect.UseVisualStyleBackColor = true;
             this.button_ContinueFromManualSelect.Visible = false;
-            this.button_ContinueFromManualSelect.Click += new System.EventHandler(this.button_ContinueFromManualSe
+            this.button_ContinueFromManualSelect.Click += new System.EventHandler(this.button_ContinueFromManualSelect_Click);
+            // 
+            // groupBox_manualSelect
+            // 
+            
