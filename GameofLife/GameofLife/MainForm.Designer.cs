@@ -217,4 +217,6 @@
             this.groupBox_manualSelect.Controls.Add(this.radioButton_ManualMimic);
             this.groupBox_manualSelect.Location = new System.Drawing.Point(2, 15);
             this.groupBox_manualSelect.Name = "groupBox_manualSelect";
-            this.groupBox_manualSelect.Size = new S
+            this.groupBox_manualSelect.Size = new System.Drawing.Size(115, 86);
+            this.groupBox_manualSelect.TabIndex = 74;
+     
