@@ -216,4 +216,5 @@
             this.groupBox_manualSelect.Controls.Add(this.radioButton_ManualFly);
             this.groupBox_manualSelect.Controls.Add(this.radioButton_ManualMimic);
             this.groupBox_manualSelect.Location = new System.Drawing.Point(2, 15);
-            this.groupBox_manualS
+            this.groupBox_manualSelect.Name = "groupBox_manualSelect";
+            this.groupBox_manualSelect.Size = new S
