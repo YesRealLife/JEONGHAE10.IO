@@ -219,4 +219,5 @@
             this.groupBox_manualSelect.Name = "groupBox_manualSelect";
             this.groupBox_manualSelect.Size = new System.Drawing.Size(115, 86);
             this.groupBox_manualSelect.TabIndex = 74;
-     
+            this.groupBox_manualSelect.TabStop = false;
+            this.groupBo
