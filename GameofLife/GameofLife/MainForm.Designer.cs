@@ -220,4 +220,6 @@
             this.groupBox_manualSelect.Size = new System.Drawing.Size(115, 86);
             this.groupBox_manualSelect.TabIndex = 74;
             this.groupBox_manualSelect.TabStop = false;
-            this.groupBo
+            this.groupBox_manualSelect.Visible = false;
+            // 
+            // radioButt
