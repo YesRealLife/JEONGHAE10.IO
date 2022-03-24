@@ -222,4 +222,7 @@
             this.groupBox_manualSelect.TabStop = false;
             this.groupBox_manualSelect.Visible = false;
             // 
-            // radioButt
+            // radioButton_ManualDeadly
+            // 
+            this.radioButton_ManualDeadly.AutoSize = true;
+           
