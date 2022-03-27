@@ -227,3 +227,5 @@
             this.radioButton_ManualDeadly.AutoSize = true;
             this.radioButton_ManualDeadly.Location = new System.Drawing.Point(0, 8);
             this.radioButton_ManualDeadly.Name = "radioButton_ManualDeadly";
+            this.radioButton_ManualDeadly.Size = new System.Drawing.Size(116, 21);
+ 
