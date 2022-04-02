@@ -231,4 +231,5 @@
             this.radioButton_ManualDeadly.TabIndex = 2;
             this.radioButton_ManualDeadly.Text = "Majestic Plant";
             this.radioButton_ManualDeadly.UseVisualStyleBackColor = true;
-            this.radioButton_ManualDeadly.CheckedChanged += new S
+            this.radioButton_ManualDeadly.CheckedChanged += new System.EventHandler(this.radioButton_ManualDeadly_CheckedChanged);
+            //
