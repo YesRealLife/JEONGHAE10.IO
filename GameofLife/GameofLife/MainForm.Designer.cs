@@ -230,4 +230,5 @@
             this.radioButton_ManualDeadly.Size = new System.Drawing.Size(116, 21);
             this.radioButton_ManualDeadly.TabIndex = 2;
             this.radioButton_ManualDeadly.Text = "Majestic Plant";
-            this.radioButton_ManualDeadly.UseVisualSty
+            this.radioButton_ManualDeadly.UseVisualStyleBackColor = true;
+            this.radioButton_ManualDeadly.CheckedChanged += new S
