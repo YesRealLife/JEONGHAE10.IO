@@ -229,4 +229,5 @@
             this.radioButton_ManualDeadly.Name = "radioButton_ManualDeadly";
             this.radioButton_ManualDeadly.Size = new System.Drawing.Size(116, 21);
             this.radioButton_ManualDeadly.TabIndex = 2;
-            this.radioButton_ManualDead
+            this.radioButton_ManualDeadly.Text = "Majestic Plant";
+            this.radioButton_ManualDeadly.UseVisualSty
