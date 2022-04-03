@@ -235,4 +235,6 @@
             // 
             // radioButton_ManualFly
             // 
-            this.r
+            this.radioButton_ManualFly.AutoSize = true;
+            this.radioButton_ManualFly.Checked = true;
+      
