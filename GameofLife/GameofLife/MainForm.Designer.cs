@@ -239,4 +239,5 @@
             this.radioButton_ManualFly.Checked = true;
             this.radioButton_ManualFly.Location = new System.Drawing.Point(0, 48);
             this.radioButton_ManualFly.Name = "radioButton_ManualFly";
-            this.radioButt
+            this.radioButton_ManualFly.Size = new System.Drawing.Size(47, 21);
+            this.radioButton_Man
