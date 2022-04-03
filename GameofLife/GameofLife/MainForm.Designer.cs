@@ -237,4 +237,5 @@
             // 
             this.radioButton_ManualFly.AutoSize = true;
             this.radioButton_ManualFly.Checked = true;
-      
+            this.radioButton_ManualFly.Location = new System.Drawing.Point(0, 48);
+   
