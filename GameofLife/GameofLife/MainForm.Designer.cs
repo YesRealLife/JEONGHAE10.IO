@@ -240,4 +240,6 @@
             this.radioButton_ManualFly.Location = new System.Drawing.Point(0, 48);
             this.radioButton_ManualFly.Name = "radioButton_ManualFly";
             this.radioButton_ManualFly.Size = new System.Drawing.Size(47, 21);
-            this.radioButton_Man
+            this.radioButton_ManualFly.TabIndex = 1;
+            this.radioButton_ManualFly.TabStop = true;
+            t
