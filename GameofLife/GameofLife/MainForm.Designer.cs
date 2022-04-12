@@ -242,4 +242,5 @@
             this.radioButton_ManualFly.Size = new System.Drawing.Size(47, 21);
             this.radioButton_ManualFly.TabIndex = 1;
             this.radioButton_ManualFly.TabStop = true;
-            t
+            this.radioButton_ManualFly.Text = "Fly";
+            this.radioButton_ManualFly.UseVisu
