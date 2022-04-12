@@ -243,4 +243,5 @@
             this.radioButton_ManualFly.TabIndex = 1;
             this.radioButton_ManualFly.TabStop = true;
             this.radioButton_ManualFly.Text = "Fly";
-            this.radioButton_ManualFly.UseVisu
+            this.radioButton_ManualFly.UseVisualStyleBackColor = true;
+            this.radioButton_ManualFly.CheckedChanged += new System.EventHandle
