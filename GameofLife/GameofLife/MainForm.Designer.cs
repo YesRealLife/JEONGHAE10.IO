@@ -246,4 +246,7 @@
             this.radioButton_ManualFly.UseVisualStyleBackColor = true;
             this.radioButton_ManualFly.CheckedChanged += new System.EventHandler(this.radioButton_ManualFly_CheckedChanged);
             // 
-            // radioButton_ManualM
+            // radioButton_ManualMimic
+            // 
+            this.radioButton_ManualMimic.AutoSize = true;
+   
