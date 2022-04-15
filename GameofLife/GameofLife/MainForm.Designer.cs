@@ -249,4 +249,5 @@
             // radioButton_ManualMimic
             // 
             this.radioButton_ManualMimic.AutoSize = true;
-            this.radioButton_ManualMimic.Location = new System.Drawing.Point(0, 28
+            this.radioButton_ManualMimic.Location = new System.Drawing.Point(0, 28);
+            this.radioButton_ManualMimic.Name = "radioButton_ManualMimic
