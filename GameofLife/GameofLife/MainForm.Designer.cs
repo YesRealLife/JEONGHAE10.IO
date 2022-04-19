@@ -252,4 +252,5 @@
             this.radioButton_ManualMimic.Location = new System.Drawing.Point(0, 28);
             this.radioButton_ManualMimic.Name = "radioButton_ManualMimic";
             this.radioButton_ManualMimic.Size = new System.Drawing.Size(112, 21);
-     
+            this.radioButton_ManualMimic.TabIndex = 0;
+            this.radioButton_ManualMimic.Tex
