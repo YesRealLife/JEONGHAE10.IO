@@ -254,4 +254,5 @@
             this.radioButton_ManualMimic.Size = new System.Drawing.Size(112, 21);
             this.radioButton_ManualMimic.TabIndex = 0;
             this.radioButton_ManualMimic.Text = "Deadly Mimic";
-            this.radioButton_ManualMimic.UseVisualStyleBackColor = true
+            this.radioButton_ManualMimic.UseVisualStyleBackColor = true;
+            this.radioButton_ManualMimic.CheckedChanged += new System.EventHandler(this.radi
