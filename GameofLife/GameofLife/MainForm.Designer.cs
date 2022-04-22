@@ -257,4 +257,6 @@
             this.radioButton_ManualMimic.UseVisualStyleBackColor = true;
             this.radioButton_ManualMimic.CheckedChanged += new System.EventHandler(this.radioButton_ManualMimic_CheckedChanged);
             // 
-            // butto
+            // button_ManualLoad
+            // 
+            this.button_ManualLoad.Location = new System.Drawing.Poin
