@@ -261,4 +261,5 @@
             // 
             this.button_ManualLoad.Location = new System.Drawing.Point(314, 73);
             this.button_ManualLoad.Name = "button_ManualLoad";
-            this.butto
+            this.button_ManualLoad.Size = new System.Drawing.Size(109, 23);
+            this.button_ManualLoad.TabInde
