@@ -259,4 +259,6 @@
             // 
             // button_ManualLoad
             // 
-            this.button_ManualLoad.Location = new System.Drawing.Poin
+            this.button_ManualLoad.Location = new System.Drawing.Point(314, 73);
+            this.button_ManualLoad.Name = "button_ManualLoad";
+            this.butto
