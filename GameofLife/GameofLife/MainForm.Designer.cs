@@ -264,4 +264,5 @@
             this.button_ManualLoad.Size = new System.Drawing.Size(109, 23);
             this.button_ManualLoad.TabIndex = 73;
             this.button_ManualLoad.Text = "Manual Load";
-            this.button_Ma
+            this.button_ManualLoad.UseVisualStyleBackColor = true;
+            this.button_ManualLoad.Click += new Sys
