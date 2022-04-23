@@ -265,4 +265,6 @@
             this.button_ManualLoad.TabIndex = 73;
             this.button_ManualLoad.Text = "Manual Load";
             this.button_ManualLoad.UseVisualStyleBackColor = true;
-            this.button_ManualLoad.Click += new Sys
+            this.button_ManualLoad.Click += new System.EventHandler(this.button_ManualLoad_Click);
+            // 
+            /
