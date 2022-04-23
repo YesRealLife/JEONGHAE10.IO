@@ -267,4 +267,6 @@
             this.button_ManualLoad.UseVisualStyleBackColor = true;
             this.button_ManualLoad.Click += new System.EventHandler(this.button_ManualLoad_Click);
             // 
-            /
+            // radioButton_Manual
+            // 
+            this.radioButton_Manual.AutoSize 
