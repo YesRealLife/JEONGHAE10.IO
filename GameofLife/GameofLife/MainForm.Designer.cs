@@ -269,4 +269,6 @@
             // 
             // radioButton_Manual
             // 
-            this.radioButton_Manual.AutoSize 
+            this.radioButton_Manual.AutoSize = true;
+            this.radioButton_Manual.Checked = true;
+            this.radioButton_Manua
