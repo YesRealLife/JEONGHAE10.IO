@@ -277,4 +277,5 @@
             this.radioButton_Manual.Size = new System.Drawing.Size(141, 21);
             this.radioButton_Manual.TabIndex = 72;
             this.radioButton_Manual.TabStop = true;
-            this.radioButton_Manual.Text = "Manual
+            this.radioButton_Manual.Text = "Manual Increment";
+            this.radioButton_Manual.UseVisualStyleBackColor = true
