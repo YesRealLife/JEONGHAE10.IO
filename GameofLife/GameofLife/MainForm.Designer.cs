@@ -276,4 +276,5 @@
             this.radioButton_Manual.Name = "radioButton_Manual";
             this.radioButton_Manual.Size = new System.Drawing.Size(141, 21);
             this.radioButton_Manual.TabIndex = 72;
-            th
+            this.radioButton_Manual.TabStop = true;
+            this.radioButton_Manual.Text = "Manual
