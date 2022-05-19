@@ -282,4 +282,6 @@
             this.radioButton_Manual.CheckedChanged += new System.EventHandler(this.radioButton_Manual_CheckedChanged);
             // 
             // radioButton_Auto
-            /
+            // 
+            this.radioButton_Auto.AutoSize = true;
+            this.rad
