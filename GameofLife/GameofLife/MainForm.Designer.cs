@@ -279,4 +279,7 @@
             this.radioButton_Manual.TabStop = true;
             this.radioButton_Manual.Text = "Manual Increment";
             this.radioButton_Manual.UseVisualStyleBackColor = true;
-            this.radioButton_Manual.CheckedChanged += new System.EventHandler(this.radioB
+            this.radioButton_Manual.CheckedChanged += new System.EventHandler(this.radioButton_Manual_CheckedChanged);
+            // 
+            // radioButton_Auto
+            /
