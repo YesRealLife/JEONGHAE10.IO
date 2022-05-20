@@ -284,4 +284,5 @@
             // radioButton_Auto
             // 
             this.radioButton_Auto.AutoSize = true;
-            this.rad
+            this.radioButton_Auto.Location = new System.Drawing.Point(443, 14);
+            this.radioButton_Auto.Margi
