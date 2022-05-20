@@ -285,4 +285,5 @@
             // 
             this.radioButton_Auto.AutoSize = true;
             this.radioButton_Auto.Location = new System.Drawing.Point(443, 14);
-            this.radioButton_Auto.Margi
+            this.radioButton_Auto.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.radio
