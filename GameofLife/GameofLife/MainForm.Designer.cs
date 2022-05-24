@@ -288,4 +288,6 @@
             this.radioButton_Auto.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton_Auto.Name = "radioButton_Auto";
             this.radioButton_Auto.Size = new System.Drawing.Size(124, 21);
-            this.radioButton_Auto.TabIndex = 
+            this.radioButton_Auto.TabIndex = 71;
+            this.radioButton_Auto.Text = "Auto Increment";
+            this.ra
