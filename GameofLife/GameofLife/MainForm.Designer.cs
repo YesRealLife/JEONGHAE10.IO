@@ -287,4 +287,5 @@
             this.radioButton_Auto.Location = new System.Drawing.Point(443, 14);
             this.radioButton_Auto.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.radioButton_Auto.Name = "radioButton_Auto";
-            this.radioButton_Auto.Size = new System.Drawi
+            this.radioButton_Auto.Size = new System.Drawing.Size(124, 21);
+            this.radioButton_Auto.TabIndex = 
