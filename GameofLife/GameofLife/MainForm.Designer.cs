@@ -290,4 +290,5 @@
             this.radioButton_Auto.Size = new System.Drawing.Size(124, 21);
             this.radioButton_Auto.TabIndex = 71;
             this.radioButton_Auto.Text = "Auto Increment";
-            this.ra
+            this.radioButton_Auto.UseVisualStyleBackColor = true;
+            this.radioButt
