@@ -291,4 +291,7 @@
             this.radioButton_Auto.TabIndex = 71;
             this.radioButton_Auto.Text = "Auto Increment";
             this.radioButton_Auto.UseVisualStyleBackColor = true;
-            this.radioButton_Auto.CheckedChanged += new System.EventHandler(this.radioButton_Auto_CheckedChanged
+            this.radioButton_Auto.CheckedChanged += new System.EventHandler(this.radioButton_Auto_CheckedChanged);
+            // 
+            // label_genCount
+            // 
