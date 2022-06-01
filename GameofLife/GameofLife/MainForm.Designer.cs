@@ -296,4 +296,5 @@
             // label_genCount
             // 
             this.label_genCount.AutoSize = true;
-            this.label_genCoun
+            this.label_genCount.Location = new System.Drawing.Point(657, 71);
+            this.label_genCount.Name = "label_genCount"
