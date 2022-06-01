@@ -297,4 +297,6 @@
             // 
             this.label_genCount.AutoSize = true;
             this.label_genCount.Location = new System.Drawing.Point(657, 71);
-            this.label_genCount.Name = "label_genCount"
+            this.label_genCount.Name = "label_genCount";
+            this.label_genCount.Size = new System.Drawing.Size(13, 17);
+        
