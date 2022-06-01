@@ -295,3 +295,5 @@
             // 
             // label_genCount
             // 
+            this.label_genCount.AutoSize = true;
+            this.label_genCoun
