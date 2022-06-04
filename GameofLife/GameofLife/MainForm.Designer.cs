@@ -300,4 +300,8 @@
             this.label_genCount.Name = "label_genCount";
             this.label_genCount.Size = new System.Drawing.Size(13, 17);
             this.label_genCount.TabIndex = 70;
-            this.label_genCount.Text 
+            this.label_genCount.Text = "-";
+            // 
+            // label_generationNum
+            // 
+      
