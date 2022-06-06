@@ -305,4 +305,5 @@
             // label_generationNum
             // 
             this.label_generationNum.AutoSize = true;
-            this.label_generationNum.Locat
+            this.label_generationNum.Location = new System.Drawing.Point(123, 78);
+            this.label_generationNum.Name = "
