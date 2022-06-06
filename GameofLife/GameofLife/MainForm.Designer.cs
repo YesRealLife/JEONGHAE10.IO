@@ -304,4 +304,5 @@
             // 
             // label_generationNum
             // 
-      
+            this.label_generationNum.AutoSize = true;
+            this.label_generationNum.Locat
