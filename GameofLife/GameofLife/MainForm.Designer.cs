@@ -307,4 +307,6 @@
             this.label_generationNum.AutoSize = true;
             this.label_generationNum.Location = new System.Drawing.Point(123, 78);
             this.label_generationNum.Name = "label_generationNum";
-            this.label_generationNum.Size = new System.Dra
+            this.label_generationNum.Size = new System.Drawing.Size(91, 17);
+            this.label_generationNum.TabIndex = 69;
+    
