@@ -313,4 +313,5 @@
             // 
             // textBox_generationNum
             // 
-            this.textBox_generation
+            this.textBox_generationNum.Location = new System.Drawing.Point(220, 71);
+            this.textBox_generationNum.Ma
