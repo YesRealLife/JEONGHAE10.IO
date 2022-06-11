@@ -311,4 +311,6 @@
             this.label_generationNum.TabIndex = 69;
             this.label_generationNum.Text = "Generation #";
             // 
-            
+            // textBox_generationNum
+            // 
+            this.textBox_generation
