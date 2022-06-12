@@ -315,4 +315,5 @@
             // 
             this.textBox_generationNum.Location = new System.Drawing.Point(220, 71);
             this.textBox_generationNum.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox_genera
+            this.textBox_generationNum.Name = "textBox_generationNum";
+            this.textBox_generationNum.Size 
