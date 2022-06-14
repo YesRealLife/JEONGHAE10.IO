@@ -316,4 +316,5 @@
             this.textBox_generationNum.Location = new System.Drawing.Point(220, 71);
             this.textBox_generationNum.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox_generationNum.Name = "textBox_generationNum";
-            this.textBox_generationNum.Size 
+            this.textBox_generationNum.Size = new System.Drawing.Size(31, 22);
+            this.textBox_generationNum.TabI
