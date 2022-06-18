@@ -321,4 +321,5 @@
             // 
             // button_Restart
             // 
-            
+            this.button_Restart.Cursor = System.Windows.Forms.Cursors.Default;
+            this.button_Resta
