@@ -322,4 +322,5 @@
             // button_Restart
             // 
             this.button_Restart.Cursor = System.Windows.Forms.Cursors.Default;
-            this.button_Resta
+            this.button_Restart.Location = new System.Drawing.Point(469, 75);
+            this.button_Restart.Margin
