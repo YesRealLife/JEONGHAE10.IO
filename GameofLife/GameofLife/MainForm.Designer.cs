@@ -325,4 +325,6 @@
             this.button_Restart.Location = new System.Drawing.Point(469, 75);
             this.button_Restart.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button_Restart.Name = "button_Restart";
-            this.button_Restart.Size = new System.Drawing.Size
+            this.button_Restart.Size = new System.Drawing.Size(75, 23);
+            this.button_Restart.TabIndex = 67;
+            this.button_Restart.Text = "
