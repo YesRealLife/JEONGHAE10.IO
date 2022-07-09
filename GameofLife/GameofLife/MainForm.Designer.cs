@@ -329,4 +329,5 @@
             this.button_Restart.TabIndex = 67;
             this.button_Restart.Text = "Restart";
             this.button_Restart.UseVisualStyleBackColor = true;
-            this
+            this.button_Restart.Visible = false;
+            this.button_Restart.Click += new System.
