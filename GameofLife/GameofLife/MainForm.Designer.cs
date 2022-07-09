@@ -327,4 +327,6 @@
             this.button_Restart.Name = "button_Restart";
             this.button_Restart.Size = new System.Drawing.Size(75, 23);
             this.button_Restart.TabIndex = 67;
-            this.button_Restart.Text = "
+            this.button_Restart.Text = "Restart";
+            this.button_Restart.UseVisualStyleBackColor = true;
+            this
