@@ -330,4 +330,6 @@
             this.button_Restart.Text = "Restart";
             this.button_Restart.UseVisualStyleBackColor = true;
             this.button_Restart.Visible = false;
-            this.button_Restart.Click += new System.
+            this.button_Restart.Click += new System.EventHandler(this.button_Restart_Click);
+            // 
+            // label_Dead
