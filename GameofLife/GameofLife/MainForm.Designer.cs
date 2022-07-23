@@ -332,4 +332,7 @@
             this.button_Restart.Visible = false;
             this.button_Restart.Click += new System.EventHandler(this.button_Restart_Click);
             // 
-            // label_Dead
+            // label_DeadlyCount
+            // 
+            this.label_DeadlyCount.AutoSize = true;
+            this.la
