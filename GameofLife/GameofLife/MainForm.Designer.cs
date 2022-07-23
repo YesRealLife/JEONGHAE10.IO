@@ -335,4 +335,5 @@
             // label_DeadlyCount
             // 
             this.label_DeadlyCount.AutoSize = true;
-            this.la
+            this.label_DeadlyCount.Location = new System.Drawing.Point(657, 50);
+            th
