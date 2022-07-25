@@ -337,4 +337,5 @@
             this.label_DeadlyCount.AutoSize = true;
             this.label_DeadlyCount.Location = new System.Drawing.Point(657, 50);
             this.label_DeadlyCount.Name = "label_DeadlyCount";
-            this.label_DeadlyCount.Size
+            this.label_DeadlyCount.Size = new System.Drawing.Size(13, 17);
+            this.label_DeadlyCount.Ta
