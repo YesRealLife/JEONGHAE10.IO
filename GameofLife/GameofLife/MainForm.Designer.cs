@@ -341,4 +341,6 @@
             this.label_DeadlyCount.TabIndex = 66;
             this.label_DeadlyCount.Text = "-";
             // 
-         
+            // label_MajesticCount
+            // 
+            this.label_MajesticCount
