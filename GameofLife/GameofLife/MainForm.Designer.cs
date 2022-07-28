@@ -338,4 +338,7 @@
             this.label_DeadlyCount.Location = new System.Drawing.Point(657, 50);
             this.label_DeadlyCount.Name = "label_DeadlyCount";
             this.label_DeadlyCount.Size = new System.Drawing.Size(13, 17);
-            this.label_DeadlyCount.Ta
+            this.label_DeadlyCount.TabIndex = 66;
+            this.label_DeadlyCount.Text = "-";
+            // 
+         
