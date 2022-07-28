@@ -343,4 +343,5 @@
             // 
             // label_MajesticCount
             // 
-            this.label_MajesticCount
+            this.label_MajesticCount.AutoSize = true;
+            this.label_MajesticCount.Location = new System.Drawing.Poin
