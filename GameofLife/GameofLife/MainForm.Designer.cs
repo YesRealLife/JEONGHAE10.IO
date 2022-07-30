@@ -344,4 +344,6 @@
             // label_MajesticCount
             // 
             this.label_MajesticCount.AutoSize = true;
-            this.label_MajesticCount.Location = new System.Drawing.Poin
+            this.label_MajesticCount.Location = new System.Drawing.Point(657, 30);
+            this.label_MajesticCount.Name = "label_MajesticCount";
+            this.label_Ma
