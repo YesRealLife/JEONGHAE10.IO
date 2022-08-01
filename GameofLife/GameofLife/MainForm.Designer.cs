@@ -349,3 +349,7 @@
             this.label_MajesticCount.Size = new System.Drawing.Size(13, 17);
             this.label_MajesticCount.TabIndex = 65;
             this.label_MajesticCount.Text = "-";
+            // 
+            // label_FlyCount
+            // 
+            this.la
