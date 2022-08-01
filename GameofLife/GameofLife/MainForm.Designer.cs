@@ -352,4 +352,5 @@
             // 
             // label_FlyCount
             // 
-            this.la
+            this.label_FlyCount.AutoSize = true;
+            this.label_FlyCount.Location = new Syst
