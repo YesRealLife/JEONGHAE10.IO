@@ -347,4 +347,5 @@
             this.label_MajesticCount.Location = new System.Drawing.Point(657, 30);
             this.label_MajesticCount.Name = "label_MajesticCount";
             this.label_MajesticCount.Size = new System.Drawing.Size(13, 17);
-            this.label_Majestic
+            this.label_MajesticCount.TabIndex = 65;
+            this.label_MajesticCount.Text = "-";
