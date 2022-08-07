@@ -353,4 +353,6 @@
             // label_FlyCount
             // 
             this.label_FlyCount.AutoSize = true;
-            this.label_FlyCount.Location = new Syst
+            this.label_FlyCount.Location = new System.Drawing.Point(657, 12);
+            this.label_FlyCount.Name = "label_FlyCount";
+  
