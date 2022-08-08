@@ -356,4 +356,6 @@
             this.label_FlyCount.Location = new System.Drawing.Point(657, 12);
             this.label_FlyCount.Name = "label_FlyCount";
             this.label_FlyCount.Size = new System.Drawing.Size(13, 17);
-            th
+            this.label_FlyCount.TabIndex = 64;
+            this.label_FlyCount.Text = "-";
+        
