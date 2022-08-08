@@ -358,4 +358,7 @@
             this.label_FlyCount.Size = new System.Drawing.Size(13, 17);
             this.label_FlyCount.TabIndex = 64;
             this.label_FlyCount.Text = "-";
-        
+            // 
+            // timer_Game
+            // 
+            th
