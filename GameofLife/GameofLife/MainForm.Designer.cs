@@ -361,4 +361,5 @@
             // 
             // timer_Game
             // 
-            th
+            this.timer_Game.Interval = 20;
+            this.timer_Game.Tick += new System.Event
