@@ -362,4 +362,8 @@
             // timer_Game
             // 
             this.timer_Game.Interval = 20;
-            this.timer_Game.Tick += new System.Event
+            this.timer_Game.Tick += new System.EventHandler(this.timer_Game_Tick);
+            // 
+            // button_AutoLoad
+            // 
+     
