@@ -366,4 +366,4 @@
             // 
             // button_AutoLoad
             // 
-     
+            this.button_AutoLoad.Location = new System.Drawing.Point(314, 45
