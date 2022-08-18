@@ -370,4 +370,5 @@
             this.button_AutoLoad.Name = "button_AutoLoad";
             this.button_AutoLoad.Size = new System.Drawing.Size(109, 23);
             this.button_AutoLoad.TabIndex = 76;
-      
+            this.button_AutoLoad.Text = "Auto Load";
+            this.button_AutoLoad.UseVisualSt
