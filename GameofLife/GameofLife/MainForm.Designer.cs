@@ -374,4 +374,6 @@
             this.button_AutoLoad.UseVisualStyleBackColor = true;
             this.button_AutoLoad.Click += new System.EventHandler(this.button_AutoLoad_Click);
             // 
-            // MainFo
+            // MainForm
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
