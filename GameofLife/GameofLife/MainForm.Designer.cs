@@ -372,4 +372,6 @@
             this.button_AutoLoad.TabIndex = 76;
             this.button_AutoLoad.Text = "Auto Load";
             this.button_AutoLoad.UseVisualStyleBackColor = true;
-            this.button_AutoLoad.Click += new System.EventHandl
+            this.button_AutoLoad.Click += new System.EventHandler(this.button_AutoLoad_Click);
+            // 
+            // MainFo
