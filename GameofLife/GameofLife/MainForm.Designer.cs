@@ -380,4 +380,5 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScrollMargin = new System.Drawing.Size(1000, 1000);
             this.BackColor = System.Drawing.SystemColors.ActiveBorder;
-            thi
+            this.ClientSize = new System.Drawing.Size(1072, 863);
+            this.Controls.Ad
