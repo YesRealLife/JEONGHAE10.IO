@@ -381,4 +381,5 @@
             this.AutoScrollMargin = new System.Drawing.Size(1000, 1000);
             this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.ClientSize = new System.Drawing.Size(1072, 863);
-            this.Controls.Ad
+            this.Controls.Add(this.groupBox_Control);
+            this.Margin = new System.Windows.Forms.Pa
