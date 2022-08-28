@@ -382,4 +382,6 @@
             this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.ClientSize = new System.Drawing.Size(1072, 863);
             this.Controls.Add(this.groupBox_Control);
-            this.Margin = new System.Windows.Forms.Pa
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.MinimumSize = new System.Drawing.Size(799, 820);
+  
