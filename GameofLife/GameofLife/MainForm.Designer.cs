@@ -386,4 +386,5 @@
             this.MinimumSize = new System.Drawing.Size(799, 820);
             this.Name = "MainForm";
             this.Text = "Plants";
-            this.L
+            this.Load += new System.EventHandler(this.MainForm_Load);
+            this.g
