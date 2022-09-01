@@ -384,4 +384,6 @@
             this.Controls.Add(this.groupBox_Control);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.MinimumSize = new System.Drawing.Size(799, 820);
-  
+            this.Name = "MainForm";
+            this.Text = "Plants";
+            this.L
