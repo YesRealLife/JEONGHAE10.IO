@@ -387,4 +387,5 @@
             this.Name = "MainForm";
             this.Text = "Plants";
             this.Load += new System.EventHandler(this.MainForm_Load);
-            this.g
+            this.groupBox_Control.ResumeLayout(false);
+            this.groupBox_Control.PerformL
