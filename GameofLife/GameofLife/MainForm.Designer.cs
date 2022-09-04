@@ -388,4 +388,5 @@
             this.Text = "Plants";
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.groupBox_Control.ResumeLayout(false);
-            this.groupBox_Control.PerformL
+            this.groupBox_Control.PerformLayout();
+            this.groupBox_manualSelect.ResumeLayout(false
