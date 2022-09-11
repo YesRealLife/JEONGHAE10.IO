@@ -389,4 +389,6 @@
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.groupBox_Control.ResumeLayout(false);
             this.groupBox_Control.PerformLayout();
-            this.groupBox_manualSelect.ResumeLayout(false
+            this.groupBox_manualSelect.ResumeLayout(false);
+            this.groupBox_manualSelect.PerformLayout();
+            this.ResumeLayout(fal
