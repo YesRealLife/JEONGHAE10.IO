@@ -391,4 +391,10 @@
             this.groupBox_Control.PerformLayout();
             this.groupBox_manualSelect.ResumeLayout(false);
             this.groupBox_manualSelect.PerformLayout();
-            this.ResumeLayout(fal
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+        private System.
