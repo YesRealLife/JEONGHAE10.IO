@@ -397,4 +397,5 @@
         }
 
         #endregion
-        private System.
+        private System.Windows.Forms.TextBox textBox_FlyNum;
+        private System.Windows.F
