@@ -398,4 +398,5 @@
 
         #endregion
         private System.Windows.Forms.TextBox textBox_FlyNum;
-        private System.Windows.F
+        private System.Windows.Forms.TextBox textBox_MajesticNum;
+        private System.Windows.Forms.TextB
