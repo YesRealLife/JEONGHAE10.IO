@@ -399,4 +399,6 @@
         #endregion
         private System.Windows.Forms.TextBox textBox_FlyNum;
         private System.Windows.Forms.TextBox textBox_MajesticNum;
-        private System.Windows.Forms.TextB
+        private System.Windows.Forms.TextBox textBox_DeadlyNum;
+        private System.Windows.Forms.Label label_FlyNum;
+        privat
