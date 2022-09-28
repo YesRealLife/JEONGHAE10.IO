@@ -401,4 +401,5 @@
         private System.Windows.Forms.TextBox textBox_MajesticNum;
         private System.Windows.Forms.TextBox textBox_DeadlyNum;
         private System.Windows.Forms.Label label_FlyNum;
-        privat
+        private System.Windows.Forms.Label label_MajesticNum;
+        private System.Windows.Forms.La
