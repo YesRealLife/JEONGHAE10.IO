@@ -406,4 +406,6 @@
         private System.Windows.Forms.TextBox textBox_Rows;
         private System.Windows.Forms.TextBox textBox_Columns;
         private System.Windows.Forms.Label label_Cols;
-        private System.Windows.Forms.Label l
+        private System.Windows.Forms.Label label_Rows;
+        private System.Windows.Forms.Button button_Next;
+        private
