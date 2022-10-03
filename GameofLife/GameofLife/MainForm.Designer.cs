@@ -408,4 +408,5 @@
         private System.Windows.Forms.Label label_Cols;
         private System.Windows.Forms.Label label_Rows;
         private System.Windows.Forms.Button button_Next;
-        private
+        private System.Windows.Forms.GroupBox groupBox_Control;
+        private System.Windows.Forms.Label label_
