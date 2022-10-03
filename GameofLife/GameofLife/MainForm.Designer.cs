@@ -405,4 +405,5 @@
         private System.Windows.Forms.Label label_DeadlyNums;
         private System.Windows.Forms.TextBox textBox_Rows;
         private System.Windows.Forms.TextBox textBox_Columns;
-       
+        private System.Windows.Forms.Label label_Cols;
+        private System.Windows.Forms.Label l
