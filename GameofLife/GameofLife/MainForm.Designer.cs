@@ -411,4 +411,5 @@
         private System.Windows.Forms.GroupBox groupBox_Control;
         private System.Windows.Forms.Label label_DeadlyCount;
         private System.Windows.Forms.Label label_MajesticCount;
-      
+        private System.Windows.Forms.Label label_FlyCount;
+        private 
