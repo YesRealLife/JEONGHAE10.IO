@@ -416,4 +416,6 @@
         private System.Windows.Forms.Label label_generationNum;
         private System.Windows.Forms.TextBox textBox_generationNum;
         private System.Windows.Forms.Timer timer_Game;
-        private System.Windows.Forms.Label label_genCo
+        private System.Windows.Forms.Label label_genCount;
+        private System.Windows.Forms.RadioButton radioButton_Manual;
+        private System
