@@ -413,4 +413,6 @@
         private System.Windows.Forms.Label label_MajesticCount;
         private System.Windows.Forms.Label label_FlyCount;
         private System.Windows.Forms.Button button_Restart;
-        private System.Windows.Forms.Label label_generationN
+        private System.Windows.Forms.Label label_generationNum;
+        private System.Windows.Forms.TextBox textBox_generationNum;
+        pr
