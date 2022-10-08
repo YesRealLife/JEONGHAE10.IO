@@ -412,4 +412,5 @@
         private System.Windows.Forms.Label label_DeadlyCount;
         private System.Windows.Forms.Label label_MajesticCount;
         private System.Windows.Forms.Label label_FlyCount;
-        private 
+        private System.Windows.Forms.Button button_Restart;
+        private System.Windows.Forms.Label label_generationN
