@@ -415,4 +415,5 @@
         private System.Windows.Forms.Button button_Restart;
         private System.Windows.Forms.Label label_generationNum;
         private System.Windows.Forms.TextBox textBox_generationNum;
-        pr
+        private System.Windows.Forms.Timer timer_Game;
+        private System.Windows.Forms.Label label_genCo
