@@ -418,4 +418,5 @@
         private System.Windows.Forms.Timer timer_Game;
         private System.Windows.Forms.Label label_genCount;
         private System.Windows.Forms.RadioButton radioButton_Manual;
-        private System
+        private System.Windows.Forms.RadioButton radioButton_Auto;
+        private System.Windows.Forms.Button but
