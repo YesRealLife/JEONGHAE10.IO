@@ -419,4 +419,6 @@
         private System.Windows.Forms.Label label_genCount;
         private System.Windows.Forms.RadioButton radioButton_Manual;
         private System.Windows.Forms.RadioButton radioButton_Auto;
-        private System.Windows.Forms.Button but
+        private System.Windows.Forms.Button button_ManualLoad;
+        private System.Windows.Forms.GroupBox groupBox_manualSelect;
+        p
