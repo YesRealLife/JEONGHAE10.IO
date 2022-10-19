@@ -422,4 +422,5 @@
         private System.Windows.Forms.Button button_ManualLoad;
         private System.Windows.Forms.GroupBox groupBox_manualSelect;
         private System.Windows.Forms.RadioButton radioButton_ManualDeadly;
-   
+        private System.Windows.Forms.RadioButton radioButton_ManualFly;
+  
