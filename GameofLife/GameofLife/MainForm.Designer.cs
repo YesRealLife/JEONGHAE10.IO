@@ -421,4 +421,5 @@
         private System.Windows.Forms.RadioButton radioButton_Auto;
         private System.Windows.Forms.Button button_ManualLoad;
         private System.Windows.Forms.GroupBox groupBox_manualSelect;
-        p
+        private System.Windows.Forms.RadioButton radioButton_ManualDeadly;
+   
