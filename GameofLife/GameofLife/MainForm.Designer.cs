@@ -425,4 +425,7 @@
         private System.Windows.Forms.RadioButton radioButton_ManualFly;
         private System.Windows.Forms.RadioButton radioButton_ManualMimic;
         private System.Windows.Forms.Button button_ContinueFromManualSelect;
-        private System.Wind
+        private System.Windows.Forms.Button button_AutoLoad;
+    }
+}
+
