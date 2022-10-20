@@ -424,4 +424,5 @@
         private System.Windows.Forms.RadioButton radioButton_ManualDeadly;
         private System.Windows.Forms.RadioButton radioButton_ManualFly;
         private System.Windows.Forms.RadioButton radioButton_ManualMimic;
-        p
+        private System.Windows.Forms.Button button_ContinueFromManualSelect;
+        private System.Wind
