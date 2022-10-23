@@ -175,3 +175,87 @@ namespace GameofLife
         //*************************************************** Manual Continue Button *******************************************
         private void button_ContinueFromManualSelect_Click(object sender, EventArgs e)
         {
+            button_ContinueFromManualSelect.Visible = false;
+            button_Next.Visible = true;
+            button_ManualLoad.Visible = false;
+            editForm = false;
+            Logic.LoadGameLogic(DataStructure);
+            LoadFromGrid();
+            ClearGrid(Color.Transparent);
+            ScanAndUpdate();
+            label_DeadlyCount.Text = "Deadly Mimics Left: " + Logic.DataArr.DeadlyCount;
+            label_FlyCount.Text = "Flys Left: " + Logic.DataArr.FlyCount;
+            label_MajesticCount.Text = "Majestic Plants Left: " + Logic.DataArr.MajesticCount;
+            label_genCount.Text = "Generation " + Gen + " of " + generations;
+        }
+
+        //*************************************************** Game Timer *************************************************
+        private void timer_Game_Tick(object sender, EventArgs e)
+        {
+
+            ClearGrid(Color.Transparent);
+            Logic.MoveFlies(gridSizeX, gridSizeY);
+            ScanAndUpdate();
+
+            //Display organism count
+            label_DeadlyCount.Text = "Deadly Mimics Left: " + Logic.DataArr.DeadlyCount;
+            label_FlyCount.Text = "Flys Left: " + Logic.DataArr.FlyCount;
+            label_MajesticCount.Text = "Majestic Plant Left: " + Logic.DataArr.MajesticCount;
+            label_genCount.Text = "Generation " + Gen + " of " + generations;
+
+            if (!Logic.AutoRun)
+            {
+                timer_Game.Stop();
+                //increase speed to make button click feel quick
+                timer_Game.Interval = 20;
+            }
+            else
+            {
+                //reduce speed to view picture movement
+                timer_Game.Interval = 500;
+            }
+
+            if (Gen >= generations)
+            {
+                timer_Game.Stop();
+                MessageBox.Show("Max Generation Reached" +
+                    "  Flies Left: " + Logic.DataArr.FlyCount +
+                    "  Deadly Mimics Left: " + Logic.DataArr.DeadlyCount +
+                    "  Majestic Plants Left: " + Logic.DataArr.MajesticCount,
+                    "Max Gen");
+                Application.Restart();
+            }
+            Gen++;
+            //fly count will not update on first iteration, but will update correctly afterwards
+            System.GC.Collect();
+        }
+
+        //*******************************************************Load Empty Picture Grid ****************************************
+        public void LoadEmptyPictureGrid(int NumOfRows, int NumOfCols)
+        {
+            for (int x = 0; x < NumOfRows; x++)
+            {
+                for (int y = 0; y < NumOfCols; y++)
+                {
+                    //place anonymous picture box object in grid cells
+                    grid[x, y] = new PictureBox
+                    {   //set empty cells background color
+                        BackColor = Color.Red,
+                        //increment the location the picturebox bases on the iteration
+                        Location = new Point(50 * y, 100 + 50 * x),
+                        Size = new System.Drawing.Size(50, 50),
+                        BorderStyle = BorderStyle.None,
+                        Anchor = AnchorStyles.Left,
+                    };//grid
+                    grid[x, y].Click += MainForm_Click;
+                    //add the picturebox object to this form
+                    this.Controls.Add(grid[x, y]);
+                }//innerFor
+            }//outerFor
+        }//LoadPictureGrid
+
+
+
+        //*******************************************************Click Picture Boxes ****************************************
+        private void MainForm_Click(object sender, EventArgs e)
+        {
