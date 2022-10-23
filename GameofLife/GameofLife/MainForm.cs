@@ -259,3 +259,85 @@ namespace GameofLife
         //*******************************************************Click Picture Boxes ****************************************
         private void MainForm_Click(object sender, EventArgs e)
         {
+            if (editForm == true)
+            {
+                ((PictureBox)sender).Image = GameofLife.Properties.Resources.Fly1;
+
+                int a = Int32.Parse(ManualSelection);
+                switch (a)
+                {
+                    case 1:
+                        ((PictureBox)sender).Image = GameofLife.Properties.Resources.Fly1;
+                        ((PictureBox)sender).Name = ManualSelection.ToString();
+                        break;
+                    case 2:
+                        ((PictureBox)sender).Image = GameofLife.Properties.Resources.DeadlyMimic1;
+                        ((PictureBox)sender).Name = ManualSelection.ToString();
+                        break;
+                    case 3:
+                        ((PictureBox)sender).Image = GameofLife.Properties.Resources.MajesticPlant1;
+                        ((PictureBox)sender).Name = ManualSelection.ToString();
+                        break;
+                }
+            }
+        }
+
+        //*******************************************************Load Actors from picture Grid******************************
+        public void LoadFromGrid()
+        {
+            for (int x = 0; x < gridSizeX; x++)
+            {
+                for (int y = 0; y < gridSizeY; y++)
+                {
+                    if (grid[x, y].Image != null)
+                    {
+                        Logic.DataArr.LoadSingleActorfromPictureGrid(grid[x, y].Name.ToString(), x, y, gridSizeX, gridSizeY);
+                    }
+
+                }//innerFor
+            }//outerFor
+        }
+
+
+        //*******************************************************Clear Grid ****************************************
+        //loop through entire picture array and set picture box image to null
+        public void ClearGrid(Color color)
+        {
+            for (int x = 0; x < gridSizeX; x++)
+            {
+                for (int y = 0; y < gridSizeY; y++)
+                {
+                    grid[x, y].BackColor = color;
+                    grid[x, y].BackgroundImage = GameofLife.Properties.Resources.BackGround;
+                    grid[x, y].Image = null;
+                }//innerFor
+            }//outerFor
+        }//SetGridColor
+
+        //******************************************************* ScanAndUpdate ****************************************
+        //loop through the entire object array, perform movement then update the pictures
+        public void ScanAndUpdate()
+        {
+            //reset organism count
+            Logic.ResetOrganismCount();
+            for (int x = 0; x < gridSizeX; x++)
+            {
+                for (int y = 0; y < gridSizeY; y++)
+                {
+                    grid[x, y].Image = Logic.UpdateGrid(x, y, gridSizeX, gridSizeY);
+
+                }//innerFor
+            }//outerFor
+        }//ScanAndUpdate
+        //*******************************************************Default Values****************************************
+        public void DefaultValues(string text)
+        {
+            MessageBox.Show(text, "Info");
+            deadlyNum = 20;
+            majesticNum = 20;
+            flyNum = 20;
+            gridSizeX = 12;
+            gridSizeY = 16;
+            generations = 15;
+        }//DefaultValues
+    }//MainForm
