@@ -341,3 +341,4 @@ namespace GameofLife
             generations = 15;
         }//DefaultValues
     }//MainForm
+}
