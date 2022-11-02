@@ -15,4 +15,6 @@ namespace GameofLife
         static void Main()
         {
             Application.EnableVisualStyles();
-            Application.SetCompatibleT
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new MainForm());
+        }
