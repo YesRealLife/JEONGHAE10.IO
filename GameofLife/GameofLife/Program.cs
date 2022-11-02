@@ -9,4 +9,8 @@ namespace GameofLife
     static class Program
     {
         /// <summary>
-        /// The main entry point for 
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
+  
