@@ -7,4 +7,7 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 [assembly: AssemblyTitle("GameofLife")]
 [assembly: AssemblyDescription("")]
-[assembly: AssemblyConfigurati
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("HP Inc.")]
+[assembly: AssemblyProduct("GameofLife")]
+[assembly
