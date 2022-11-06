@@ -10,4 +10,6 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP Inc.")]
 [assembly: AssemblyProduct("GameofLife")]
-[assembly
+[assembly: AssemblyCopyright("Copyright © HP Inc. 2020")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyC
