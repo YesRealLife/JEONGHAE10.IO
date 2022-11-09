@@ -12,4 +12,6 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyProduct("GameofLife")]
 [assembly: AssemblyCopyright("Copyright © HP Inc. 2020")]
 [assembly: AssemblyTrademark("")]
-[assembly: AssemblyC
+[assembly: AssemblyCulture("")]
+
+// Setting ComVisible to false makes the types in this assembly 
