@@ -85,3 +85,60 @@ namespace GameofLife.Properties {
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap DeadlyMimic2 {
+            get {
+                object obj = ResourceManager.GetObject("DeadlyMimic2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap DeadlyMimic3 {
+            get {
+                object obj = ResourceManager.GetObject("DeadlyMimic3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Fly1 {
+            get {
+                object obj = ResourceManager.GetObject("Fly1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap MajesticPlant1 {
+            get {
+                object obj = ResourceManager.GetObject("MajesticPlant1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap MajesticPlant2 {
+            get {
+                object obj = ResourceManager.GetObject("MajesticPlant2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap MajesticPlant3 {
+            get {
+                object obj = ResourceManager.GetObject("MajesticPlant3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+    }
+}
