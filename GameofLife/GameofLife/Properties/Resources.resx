@@ -66,4 +66,5 @@
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
-              <xsd:se
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs=
