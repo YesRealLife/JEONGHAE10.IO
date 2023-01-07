@@ -93,4 +93,6 @@
               <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
-          <xsd:element na
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence
