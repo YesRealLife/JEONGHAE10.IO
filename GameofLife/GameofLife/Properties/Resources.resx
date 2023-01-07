@@ -95,4 +95,5 @@
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
-              <xsd:sequence
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="
