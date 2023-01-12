@@ -106,4 +106,9 @@
     </xsd:element>
   </xsd:schema>
   <resheader name="resmimetype">
-    <value>text/microsoft-resx<
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <
