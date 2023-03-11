@@ -8,4 +8,8 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namesp
+namespace GameofLife.Properties
+{
+
+
+    [global::System.Runtime.CompilerServices.Compi
