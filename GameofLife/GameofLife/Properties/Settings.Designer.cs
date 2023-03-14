@@ -12,4 +12,5 @@ namespace GameofLife.Properties
 {
 
 
-    [global::System.Runtime.CompilerServices.Compi
+    [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttr
