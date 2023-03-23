@@ -21,4 +21,8 @@ namespace GameofLife.Properties
 
         public static Settings Default
         {
-            g
+            get
+            {
+                return defaultInstance;
+            }
+      
