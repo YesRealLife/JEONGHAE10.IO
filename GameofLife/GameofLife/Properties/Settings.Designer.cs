@@ -25,4 +25,6 @@ namespace GameofLife.Properties
             {
                 return defaultInstance;
             }
-      
+        }
+    }
+}
